@@ -1,0 +1,23 @@
+.secondDivStyling{
+    border: solid 1px black;
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem 0 3rem 0;
+}
+
+.ulElementStyling{
+    list-style-type: none;
+    border: solid 5px purple;
+    margin: 0;
+    padding: 0;
+}
+
+.purple{
+    color: white;
+    background-color: purple;
+}
+
+.black{
+    color: white;
+    background-color: black;
+}
